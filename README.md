@@ -24,3 +24,7 @@ You will need is a discord application, and a bot within said application. You w
 
 # Images
 ![Discord oAuth2](https://user-images.githubusercontent.com/98545753/175136050-c875f165-f8cb-4741-918c-47c500e28d42.png)
+
+# End Note
+Please **Star** this repo if you like it! This project has taken and continues to take lots of time! <3
+Join here and dm me if you need more help: `[iLxlo#2305](https://discord.gg/2305)`
