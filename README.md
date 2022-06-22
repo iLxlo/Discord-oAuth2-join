@@ -6,8 +6,10 @@ if you need any help join our discord and send me screen shot with your error
 #### [🔗 Discord Link](https://discord.gg/2305) - [📖 Terms](https://github.com/iLxlo/Discord-oAuth2-join#terms) - [🔨 Builder](https://discord.gg/2305) - [💎 Premium](https://discord.gg/2305) - [💡 Features](https://github.com/iLxlo/Discord-oAuth2-join/#features) - [💡 Images](https://github.com/iLxlo/Discord-oAuth2-join#images)
 
 
-# What is Rusler ? 
-Rustler is an educational purpose only open-source Discord Malware. With an easy to build panel and a "premium" feature (Join Discord for more infos) 
+# What is oAuth2 Joiner ? 
+A open-source Discord member backup and restore tool for your server. This bot gets users to Authorize themselves upon joining your server, and then later on, if your server is raided, or deleted, you can rejoin all the users who Authorized to a new server.
+
+You will need is a discord application, and a bot within said application. You will also need a server, and a role to be given to users that verify. You will also need a way to host the API.
 
 # Terms
 - [x] You only use it for educational or private purposes.
