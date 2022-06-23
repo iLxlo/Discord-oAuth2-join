@@ -2,7 +2,7 @@ import pymongo
 import dns
 import time
 from oauth import Oauth
-cluster = pymongo.MongoClient("mongodb+srv://discord:oauth2@cluster0.7t74z.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+cluster = pymongo.MongoClient("")
 db = cluster["data"]
 collection = db["tokens"]
 s = 0
